@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FPS Meter</string>
+    <string name="btn_start">تشغيل العداد</string>
+    <string name="btn_stop">إيقاف العداد</string>
+    <string name="btn_export">تصدير التقرير (CSV)</string>
+    <string name="permission_needed">نحتاج إذن \"العرض فوق التطبيقات الأخرى\" لتشغيل العداد العائم</string>
+    <string name="notification_channel_name">عداد FPS نشط</string>
+    <string name="notification_text">يتم الآن قياس معدل الإطارات في الخلفية</string>
+</resources>

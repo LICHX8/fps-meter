@@ -1,0 +1,10 @@
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="overlay_bg">#CC1B1B1B</color>
+    <color name="fps_good">#4CAF50</color>
+    <color name="fps_mid">#FFC107</color>
+    <color name="fps_low">#F44336</color>
+</resources>
